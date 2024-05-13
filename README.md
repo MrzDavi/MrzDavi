@@ -54,7 +54,7 @@
 | <a href="https://github.com/marciobueno1"><img width="24" src="https://avatars.githubusercontent.com/u/9195580?v=4" alt="marciobueno1" /> Marciobueno1</a> |5/10/2024, 10:33:47 AM|Muito bom|
 | <a href="https://github.com/PauloBarretoDev"><img width="24" src="https://avatars.githubusercontent.com/u/105065779?v=4" alt="paulobarretodev" /> PauloBarreto</a> |5/9/2024, 12:03:51 AM|Grato por sua amizade e pelas memórias. Que nossa jornada continue cheia de sorrisos.😃|
 | <a href="https://github.com/valrichter"><img width="24" src="https://avatars.githubusercontent.com/u/67121197?s=24&u=e509675e892f9a3c5369ef55afe05d0c46fe9c4b&v=4" alt="valrichter" /> valrichter</a> |4/22/2024, 9:14:28 PM|Grande brother|
-| <a href="https://github.com/Riveong"><img width="24" src="https://avatars.githubusercontent.com/u/53504975?s=24&u=825ad6c779adb5133f6596901b4f2d6bcd836e2f&v=4" alt="Riveong" /> Riveong</a> |4/19/2024, 9:59:13 AM|programar é vida|
+| <a href="https://github.com/ViniR262"><img width="24" src="https://avatars.githubusercontent.com/u/53504975?s=24&u=825ad6c779adb5133f6596901b4f2d6bcd836e2f&v=4" alt="ViniR262" /> ViniR262</a> |4/19/2024, 9:59:13 AM|bobba bobba|
 | <a href="https://github.com/LuizFelipe33"><img width="24" src="https://avatars.githubusercontent.com/u/86198174?v=4" alt="luizfelipe33" /> LuizFelipe33</a> |4/11/2024, 7:14:34 PM|😭😭Alguém divide a mensalidade do chatgpt4 comigo?|
 <!-- /Guestbook -->
 
