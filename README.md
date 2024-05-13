@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="Meu nome é Davi e eu amo consultoria estratégica" src="images/personal_note.svg" />
+  <img height="50" alt="Meu nome é Davi" src="images/personal_note.svg" />
   <br />
   <br />
 
@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <strong>Visit my personal website </strong>
 <br />
 <br />
