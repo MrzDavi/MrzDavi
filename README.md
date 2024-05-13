@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <img height="50" alt="Meu nome é Davi e eu amo consultoria estratégica" src="images/personal_note.svg" />
   <br />
   <br />
 
@@ -30,7 +30,7 @@
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
+<strong>Musica favorita</strong>
 <br />
 <br />
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Obrigado e volte sempre!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
