@@ -65,7 +65,8 @@
 <img height="120" alt="Obrigado e volte sempre!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MrzDavi&theme=travelers-theme&hide_total_contributions=true" alt="GitHub Streak" /></a>
+
+
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
@@ -75,3 +76,4 @@
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
+
