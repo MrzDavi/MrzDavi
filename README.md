@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a href="https://www.linkedin.com/in/davifrancadev/">
 <strong>Visit my site </strong>
 <br />
 <br />
@@ -45,7 +45,7 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/MrzDavi/MrzDavi/issues/1"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/MrzDavi/MrzDavi/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
