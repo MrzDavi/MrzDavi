@@ -14,7 +14,7 @@
 <tr>
 <td align="center">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-<strong>Visite meu site </strong>
+<strong>Visit my site </strong>
 <br />
 <br />
 <br />
@@ -30,7 +30,7 @@
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Musica favorita</strong>
+<strong>My favorite song</strong>
 <br />
 <br />
 
